@@ -1,0 +1,17 @@
+torch>=2.0
+torch-geometric>=2.4
+numpy<2.0
+pandas
+scipy
+scikit-learn
+matplotlib
+tqdm
+streamlit
+# preprocessing only
+rdkit
+MDAnalysis
+deepchem
+fair-esm
+requests
+# X-CLR drug oracle
+transformers

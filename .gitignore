@@ -1,3 +1,18 @@
+# Large artifacts (distributed via GitHub Releases)
 *.pth
 *.pt
-AttentionMGT/data/
+*.npy
+checkpoints/
+data/Davis/drugs/
+data/Davis/proteins/
+data/Davis/ESM_embedding_pocket/
+data/Davis/PDB_AF2/
+
+# Local-only material
+_archive/
+
+# Python / OS
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
